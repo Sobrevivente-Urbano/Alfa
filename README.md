@@ -1,7 +1,7 @@
 # Regras Para Sobrevivência 
 Seja o(a) Alfa da Matilha - Aprenda Sobreviva e Eduque os seus Membros
 
-'''
+```
 ################################################################################
 # Regras 
 ################################################################################
@@ -370,4 +370,4 @@ Monitoramento diario.txt
 	Alta do Dolar
 	Divida Externa
 	
-  '''
+```
